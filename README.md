@@ -1,2 +1,2 @@
-# kelas-alpro
-Repositori materi dan tugas kuliah Algoritma dan Pemrograman
+# Kelas-Alpro
+Repository tempat menaruh materi dan tugas Alpro Semester 1
